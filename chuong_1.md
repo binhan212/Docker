@@ -148,15 +148,3 @@ docker run -d -p 8080:80 nginx
 Truy cập: [http://localhost:8080](http://localhost:8080)
 
 ---
-
-## 8. Tổng kết chương 1
-
-Trong chương 1, bạn đã nắm được:
-
-* Docker là gì
-* Tại sao Docker quan trọng
-* Kiến trúc Docker
-* So sánh Docker với VM
-* Các khái niệm quan trọng
-
-Bạn đã sẵn sàng để bắt đầu Chương 2: **Cài đặt Docker và cấu hình môi trường**.
